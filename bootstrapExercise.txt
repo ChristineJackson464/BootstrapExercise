@@ -1,0 +1,96 @@
+Bootstrap Exercise…
+
+Inside the “Bootstrap” folder create a folder called “BootstrapExercise”
+
+Inside the “BootstrapExercise” folder create an index.html file
+
+Paste the following into your html file…
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Bootstrap Exercise">
+
+  <title>Bootstrap Exercise</title>
+</head>
+
+<body>
+  <h1>Bootstrap Feels Like Cheating</h1>
+
+</body>
+
+</html>
+
+I. Go to getbootstrap.com and select “Docs” at the top
+    a. Include the link to the Bootstrap CSS file in your html
+    b. Also, include the link to the Bootstrap JS Bundle file in your html as well (Hint: body element)
+II. Start your Live Server
+
+III.
+1. Create a div with the “container” class around the “Bootstrap Feels Like Cheating” h1 element so that the h1 is inside the div (The rest of the HTML for this assignment will go in this div below the “Bootstrap Feels Like Cheating” h1 element).
+
+2. Use the “display-1" bootstrap class to change the look and size of the “Bootstrap Feels Like Cheating” h1 element
+
+3. Below the h1, create an h2 element with the text/content of “Muted Danger”
+
+4. Give the h2 element the bootstrap class that will set the text color to the “muted” color
+
+5. Also, give the h2 element the bootstrap class that will set the background color to the “Danger” color
+
+6. Below the h2, create a p element and use the “lorem” shortcut to create some placeholder text inside the opening and closing p tags
+
+7. Give the p element the bootstrap class that will allow the text to go off the screen instead of wrapping onto the next line
+
+8. Below the p element, create 3 button elements with the following text in each (1st button: “Dark”. 2nd button: “Secondary”. 3rd button: “Link”)
+
+9. Use three Bootstrap classes to make the first button a small button with the “Dark” styles
+
+10. Use three Bootstrap classes to make the second button a large button with the “Secondary” styles
+
+11. Use two Bootstrap classes to make the third “button” regular size with the “Link” styles.
+
+12. Below the buttons, create a table element with 4 rows and three columns. Make the first row a heading row.(Hint: th) (NOTE: You will NOT be able to see it on the webpage at this point.)
+
+13. In the first row, add the following text/content as a heading for each column “Frontend”, “Backend”, & “Web Dev Tools”.
+
+14. Add the following text/content for the 3 cells below the “Front-End” heading in the first column “HTML”, “CSS”, & “JavaScript”.
+
+15. Add the following text/content for the 3 cells below the “Backend” heading in the second column “Node.js”, “Express”, & “MongoDB”.
+
+16. Add the following text/content for the 3 cells below the “Web Dev Tools” heading in the third column “VS Code”, “Terminal”, & “Git”.
+
+17. Give the table element the “table” bootstrap class.
+
+18. Give the table element the bootstrap class that will cause a row to have a different colored background when you hover over it.
+
+19. Give the table element the bootstrap class that will make every other row have a different background color.
+
+20. Give the last row the bootstrap class that will give it the “Primary” style/color (NOTE: This is for the background not the text). 
+
+21. Give the “Node.js” cell the bootstrap class that will give it the “Warning” style/color (NOTE: This is for the background not the text).
+
+
+BONUS
+B-1. Below the table, create a div with a class of “row”.
+
+B-2. Inside the “row” div, create two p elements and use the “lorem” shortcut to create text/content in each. Also, give the first p element a “Primary” background color and the second a “Warning” background color.
+
+B-3. Using bootstrap grid classes have the two p elements both take up an equal amount of horizontal space on the webpage. (NOTE: The “Primary” and “Warning” elements should take up an equal amount of space on the same line.).
+
+B-4. Below the div with the class of “row”, create a section element with a class of “row”.
+
+B-5. Inside the section element, create three p elements and use the “lorem” shortcut to create text/content in each. Also, give the first of the three p elements an “Info” background color, the second a “Danger” background color, and the third a “Success” background color.
+
+B-6. Have the “Info” div take up twice the amount of horizontal space that each of the “Danger” or “Success” elements take up (NOTE: The “Danger” and “Success” elements should take up an equal amount of space. Also, all three elements should be on the same line.).
+
+B-7. Go to the bootstrap website and find the animated striped progress bar. Copy and paste the HTML for the animated striped progress bar above the “container” div you created at the start of this exercise.
+
+B-8. Go to the bootstrap website and find a navbar that includes a dropdown menu, but does NOT include a search input. Copy and paste the HTML for the navbar below the animated striped progress bar.
+
+IV.
+When finished, create a repository in the “BootstrapExercise” Folder as well as on GitHub. Add and commit everything in the BootstrapExercise folder and push it up to your GitHub repository. Then paste the link to your GitHub repository page in the form.
+
+Send a message to assignments (Google Docs)
